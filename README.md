@@ -6,4 +6,5 @@ Acest proiect este un joc minesweeper simplu facut in assembly.
 * Butonul de tile este pentru a deselecta un tile ca fiind bomba
 * Jocul se termina in momentul in care toate tile-urile fara bombe sunt descoperite
 * Jocul prezinta de asemena si timpul de la incepere in secunde, numarul de blocuri nedescoperite si numarul de blocuri ramase
-  
+Joc:
+![Alt text](https://github.com/silviubalan1/Minesweeper-assembly/blob/main/minesweeper%20meniu.png?sanitize=true)
