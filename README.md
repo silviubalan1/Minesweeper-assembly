@@ -7,4 +7,5 @@ Acest proiect este un joc minesweeper simplu facut in assembly.
 * Jocul se termina in momentul in care toate tile-urile fara bombe sunt descoperite
 * Jocul prezinta de asemena si timpul de la incepere in secunde, numarul de blocuri nedescoperite si numarul de blocuri ramase
 Joc:
-![Alt text](https://github.com/silviubalan1/Minesweeper-assembly/blob/main/minesweeper%20meniu.png?sanitize=true)
+![Alt text](https://github.com/silviubalan1/Minesweeper-assembly/blob/main/minesweeper%20meniu.png?sanitize=true)  
+M am folosit de libraria canvas de la facultate pentru a desena in window.
